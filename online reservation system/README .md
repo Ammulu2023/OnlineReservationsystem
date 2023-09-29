@@ -1,4 +1,4 @@
-# OIBSIP-Project1 : Online Reservation System
+Online Reservation System
 
 __Oasis Infobyte Internship - Task 1 :-__
 
